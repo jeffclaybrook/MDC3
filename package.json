@@ -1,0 +1,13 @@
+{
+  "name": "MDC3",
+  "version": "1.0.0",
+  "description": "Material Design 3 Catalog",
+  "homepage": "https://jeffclaybrook.github.io/MDC3/",
+  "repository": {
+  		"type": "git",
+  		"url": "https://github.com/jeffclaybrook/MDC3/"
+  },
+  "main": "index.js",
+  "author": "Jeff Claybrook",
+  "license": "ISC"
+}
